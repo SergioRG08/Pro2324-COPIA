@@ -55,7 +55,7 @@ Los apuntes y el código de este repositorio están publicados en <a href="https
 <br/>
 
 > [!IMPORTANT]
-> Este repositorio está bajo desarrollo activo, se esperan cambios y se aceptan contribuciones. 🤗
+> Este repositorio está bajo desarrollo activo, se esperan cambios y se aceptan contribuciones. 🤗 PIMS EDITADO
 
 <div align="center">
 
